@@ -1,0 +1,173 @@
+body {
+	background-color:#001133;
+	width:1200px;
+	margin: auto;
+}
+h1{
+	font-size: 70px;
+	background: black;
+	padding: 25px;
+	color: white;
+    line-height: 26px;
+	margin-bottom: 20px;
+    margin-top: 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h2{
+	float: left;
+	position: relative;
+	left:27%;
+	bottom: 30px;
+	font-size: 40px;
+	color: white;
+    line-height: 26px;
+    font-family: 'Roboto';
+}
+
+iframe {
+	float: left;
+}
+#par1{
+	float: left;
+	width:380px;
+	position: relative;
+	left: 4%;
+	bottom: 30px;
+}
+h3 {
+	font-size: 28px;
+	color: white;
+    font-family: 'Suez One', serif;
+}
+
+#paragraph1 {
+	color: white;
+	font-size: 21px;
+    font-family: 'Carrois Gothic', sans-serif;
+}
+#par2{
+	float: left;
+	width:380px;
+	position: relative;
+	bottom: 70px;
+	left: 0%;
+	clear: both;
+}
+h4 {
+	font-size: 28px;
+	color: white;
+    font-family: 'Suez One', serif;
+}
+
+
+#paragraph2 {
+	font-size: 21px;
+	color: white;
+    font-family: 'Carrois Gothic', sans-serif;
+}
+
+.par3 {
+	float: left;
+	width:380px;
+	position: relative;
+	left: 4%;
+	bottom: 90px;
+}
+
+h5 {
+	position: relative;
+	bottom:-10px;
+	font-size: 28px;
+	color: white;
+    font-family: 'Suez One', serif;
+}
+
+#paragraph3{
+	font-size: 21px;
+	color: white;
+    font-family: 'Carrois Gothic', sans-serif;
+}
+#image1{
+	float: left;
+	position: relative;
+}
+#par4 {
+	float: left;
+	position: relative;
+	width: 380px;
+	left: 100px;
+	bottom: 95px;
+}
+h6 {
+	font-size: 28px;
+	color: white;
+    font-family: 'Suez One', serif;
+}
+
+#paragraph4{
+	float: left;
+	position: relative;
+	bottom: 50px;
+	font-size: 21px;
+	color: white;
+    font-family: 'Carrois Gothic', sans-serif;
+}
+#image3 {
+	float: left;
+	position: relative;
+	left: 8.5%;
+	bottom: 160px;
+}
+#quote{
+	float: left;
+	position: relative;
+	bottom: 60px;
+	font-size: 21px;
+	color: white;
+    font-family:'Caveat', cursive;
+}
+#quoteName{
+	float: left;
+	position: relative;
+	bottom: 80px;
+	font-size: 21px;
+	color: white;
+    font-family: 'Oswald';
+}
+
+#last {
+	float: center;
+	position: relative;
+	bottom:130px;
+	clear: both;
+}
+
+h7 {
+	font-size: 35px;
+	color: white;
+    font-family: 'Suez One', serif;
+}
+
+#paragraph5{
+	font-size: 21px;
+	color: white;
+    font-family: 'Carrois Gothic', sans-serif;
+}
+
+.footer{
+	padding: 0.5em;
+	font-size: 20px;
+    background: black;
+    color:white;
+    clear: left;
+    text-align: center;
+}
+.footer a{
+	text-decoration: none;
+	color: gray;
+}
+a:hover {
+	color: #ffffff;
+	text-decoration: none;
+}
